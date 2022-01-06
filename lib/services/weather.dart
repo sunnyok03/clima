@@ -1,7 +1,7 @@
 import 'package:clima/services/networking.dart';
 import 'package:clima/services/location.dart';
 
-const apiKey = '344507cfd6e5fd2e182db89d530d874a';
+const apiKey = 'Get you own API key';
 
 class WeatherModel {
   Future<dynamic> getCityWeather(String city) async {
